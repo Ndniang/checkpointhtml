@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(30, 83, 83);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: #333;
+    color: #faeeee;
+    padding: 10px;
+}
+nav a {
+    text-align: right;
+    color: #d1c7c7;
+    margin: 0 15px;
+    text-decoration: none;
+}
+nav section {
+    background-color: #181717;
+    color :#631c1c;
+    text-align: center;
+}
+section id.contact {
+
+    background-color: aqua;
+}
+nav form {
+    background-color: #3e2828;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #290202;
+    color: #fff;
+}
